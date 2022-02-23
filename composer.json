@@ -1,5 +1,5 @@
 {
-	"name": "webvimark/module-user-management",
+	"name": "examen-centrym/module-user-management",
 	"description": "User with improved RBAC",
 	"autoload": {
 		"psr-4": {
@@ -13,6 +13,7 @@
 		"webvimark/date-range-picker": "^1.0.0",
 		"webvimark/helpers": "^1.0.0",
 		"webvimark/grid-bulk-actions": "^1.0.0",
-		"webvimark/grid-page-size": "^1.0.0"
+		"webvimark/grid-page-size": "^1.0.0",
+		"yiisoft/yii2-bootstrap4": "^2.0"
 	}
 }

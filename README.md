@@ -1,7 +1,7 @@
 User management module for Yii 2
 =====
 
-`This repository is not actively maintained. If you want to add some changes, just fork it and safely use your fork.`
+`This repository is fork from webvimark/module-user-management.`
 
 Perks
 ---
@@ -22,13 +22,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require webvimark/module-user-management
+composer require examen-centrym/module-user-management
 ```
 
 or add
 
 ```
-"webvimark/module-user-management": "^1"
+"examen-centrym/module-user-management": "^1"
 ```
 
 to the require section of your `composer.json` file.
