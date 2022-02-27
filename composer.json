@@ -15,5 +15,11 @@
 		"webvimark/grid-bulk-actions": "^1.0.0",
 		"webvimark/grid-page-size": "^1.0.0",
 		"yiisoft/yii2-bootstrap4": "^2.0"
-	}
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/examen-centrym/date-range-picker"
+		}
+	]
 }
